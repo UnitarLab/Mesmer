@@ -198,13 +198,5 @@ Edit `src/audio/audio-engine.js` to modify:
 
 MIT
 
-## Credits
-
-Inspired by:
-- Ethcapia
-- ShaderToy community
-- The Book of Shaders
-- Tone.js
-
 Built with love for generative art and creative coding.
 # audioreactive
